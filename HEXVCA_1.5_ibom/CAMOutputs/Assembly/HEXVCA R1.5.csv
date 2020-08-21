@@ -1,0 +1,18 @@
+"Qty";"Value";"Device";"Package";"Parts";"Description";"";
+"7";"";"9MM_SNAP-IN_POT_";"9MM_SNAP-IN_POT";"P1_INIT1, P2_INIT2, P3_INIT3, P4_INIT4, P5_INIT5, P6_INIT6, P7_MASTER";"9mm vertical snap-in pot, Alpha / Panasonic style";"";
+"6";"";"BC857A-PNP-SOT23-BEC";"SOT23-BEC";"T1, T2, T3, T4, T5, T6";"PNP Transistror";"";
+"2";"";"DIODE-SOD123";"SOD123";"D1, D2";"DIODE";"";
+"9";"100k";"R-US_R0805";"R0805";"R18, R20, R21, R28, R31, R40, R42, R58, R60";"RESISTOR, American symbol";"";
+"14";"100n";"C-USC0805";"C0805";"C1, C2, C5, C6, C7, C8, C9, C10, C11, C12, C13, C14, C15, C16";"CAPACITOR, American symbol";"";
+"2";"10uf";"C-USC0805";"C0805";"C3, C4";"CAPACITOR, American symbol";"";
+"6";"12k";"R-US_R0805";"R0805";"R3, R4, R24, R25, R45, R46";"RESISTOR, American symbol";"";
+"7";"1k";"R-US_R0805";"R0805";"R17, R19, R36, R39, R41, R57, R59";"RESISTOR, American symbol";"";
+"6";"220k";"R-US_R0805";"R0805";"R13, R14, R37, R38, R55, R56";"RESISTOR, American symbol";"";
+"6";"30k";"R-US_R0805";"R0805";"R9, R11, R32, R34, R51, R53";"RESISTOR, American symbol";"";
+"12";"470r";"R-US_R0805";"R0805";"R5, R6, R7, R8, R26, R27, R29, R30, R47, R48, R49, R50";"RESISTOR, American symbol";"";
+"12";"47k";"R-US_R0805";"R0805";"R1, R2, R10, R12, R22, R23, R33, R35, R43, R44, R52, R54";"RESISTOR, American symbol";"";
+"1";"EURO_POWER_HEADERFAT_PADS";"EURO_POWER_HEADERFAT_PADS";"EURO_PWR_HEADER_FAT";"SV1";"Power Header";"";
+"2";"FERRITE_0805";"FERRITE_0805";"_0805";"FB1, FB2";"";"";
+"3";"LM13700M";"LM13700M";"SO16";"IC1, IC4, IC6";"Dual OTA with buffers";"";
+"19";"THONKICONNNEW";"THONKICONNNEW";"WQP-PJ301M-12_JACK";"J1_IN1, J2_CV1, J3_OUT1, J4_IN2, J5_CV2, J6_OUT2, J7_IN3, J8_CV3, J9_OUT3, J10_IN4, J11_CV4, J12_OUT4, J13_IN5, J14_CV5, J15_OUT5, J16_IN6, J17_CV6, J18_OUT6, J19_SUM";"3.5mm socket for Eurorack modular synths";"";
+"4";"TL072_SMD";"TL072_SMD";"SO08";"IC2, IC3, IC5, IC7";"Generic Dual Op Amp";"";
