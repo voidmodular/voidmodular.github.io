@@ -334,8 +334,7 @@ function getLastClickedRef() {
 /*************************************************
 Combine Values
 *************************************************/
-var combineValues = true;
-
+var combineValues = true
 function setCombineValues(value) {
   writeStorage("combineValues", value);
   combineValues = value;
@@ -384,7 +383,6 @@ boardRotation.oninput=function()
 const darkModeBox = document.getElementById('darkmodeCheckbox');
 darkModeBox.onchange = function () {
   ibom.setDarkMode(darkModeBox.checked)
-  var setDarkMode = true;
 }
 
 const silkscreenCheckbox = document.getElementById('silkscreenCheckbox');
@@ -1296,7 +1294,6 @@ document.onkeydown = function(e) {
 //XXX: I would like this to be in the html functions js file. But this function needs to be 
 //     placed here, otherwise the application rendering becomes very very weird.
 window.onload = function(e) {
-
   
   // This function makes so that the user data for the pcb is converted to our internal structure
   pcb.OpenPcbData(pcbdata)

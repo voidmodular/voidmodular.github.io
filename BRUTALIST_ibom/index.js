@@ -334,8 +334,7 @@ function getLastClickedRef() {
 /*************************************************
 Combine Values
 *************************************************/
-var combineValues = true;
-
+var combineValues = true
 function setCombineValues(value) {
   writeStorage("combineValues", value);
   combineValues = value;

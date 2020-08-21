@@ -334,8 +334,7 @@ function getLastClickedRef() {
 /*************************************************
 Combine Values
 *************************************************/
-var combineValues = false;
-
+var combineValues = true
 function setCombineValues(value) {
   writeStorage("combineValues", value);
   combineValues = value;
@@ -1354,7 +1353,7 @@ window.onload = function(e) {
   }
   boardRotation = globalData.readStorage("boardRotation");
   if (boardRotation === null) {
-    boardRotation = 0;
+    boardRotation = -180;
   } else {
     boardRotation = parseInt(boardRotation);
   }
